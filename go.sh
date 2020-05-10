@@ -34,3 +34,8 @@ bundle install
 # 2. Build the site and make it available on a local server.
 bundle exec jekyll serve
 
+# Push to repo
+# git add .
+# git commit -m "adding file for test"
+# git status
+# git push -u origin master
