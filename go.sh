@@ -19,7 +19,7 @@ git config user.name
 git config user.email
 
 # This should be set
-# git remote set-url origin "https://theadle@github.com/theadle/theadle.github.io.git"
+git remote set-url origin "https://theadle@github.com/theadle/theadle.github.io.git"
 
 # Check 
 git config -l | grep url
