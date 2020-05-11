@@ -3,14 +3,28 @@ STRING="Configure for Jekyll build"
 echo $STRING
 # chmod +x go.sh
 
+# ------------------------------------------------------------------------------
 # NOTES:
 # https://favicon.io/favicon-converter/
 # 
 # https://github.com/jekyll/jekyll-admin
 # http://localhost:4000/admin
 
+# Jekyll Theme base
+# https://mmistakes.github.io/minimal-mistakes/
+
 # Create & clone this empty project
 # git clone https://github.com/theadle/theadle.github.io.git
+
+# YAML Validator
+# https://codebeautify.org/yaml-validator
+
+# Upgrading - Miminal Mistakes
+# https://mmistakes.github.io/minimal-mistakes/docs/upgrading/
+# bundle update
+
+#
+# ------------------------------------------------------------------------------
 
 git config user.name "Tom Headle"
 git config user.email "theadle@hotmail"
